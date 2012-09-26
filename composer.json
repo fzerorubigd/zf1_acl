@@ -10,5 +10,8 @@
     "license": "Zend Framework",
     "require": {
 
+    },
+    "autoload": {
+        "psr-0": { "Zend": "" }
     }
 }
