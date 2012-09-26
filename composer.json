@@ -3,10 +3,11 @@
     "description": "Zendframework 1 Zend_Acl",
     "authors": [
         {
-            "name": "Fzerorubigd",
-            "email": "fzerorubigd@gmail.com"
+            "name": "Zend Technologies USA, Inc.",
+            "homepage": "http://framework.zend.com/"
         }
     ],
+    "license": "Zend Framework",
     "require": {
 
     }
